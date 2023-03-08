@@ -1,0 +1,4 @@
+/home/libinnn/leptjson/build/CMakeFiles/rebuild_cache.dir
+/home/libinnn/leptjson/build/CMakeFiles/edit_cache.dir
+/home/libinnn/leptjson/build/CMakeFiles/leptjson_test.dir
+/home/libinnn/leptjson/build/CMakeFiles/leptjson.dir
