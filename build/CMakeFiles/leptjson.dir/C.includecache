@@ -11,6 +11,10 @@ leptjson.h
 /home/libinnn/leptjson/leptjson.h
 assert.h
 -
+errno.h
+-
+math.h
+-
 stdlib.h
 -
 
